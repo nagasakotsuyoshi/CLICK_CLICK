@@ -269,8 +269,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 477752422}
-        m_MethodName: OnClick
+      - m_Target: {fileID: 2035304161}
+        m_MethodName: LoadGameScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -612,7 +612,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2035304160}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 72d821418ef964c1d8e68216b2a79c6b, type: 3}
+  m_Script: {fileID: 11500000, guid: 89c76dbd1fdad4dbb8331fb7fba94254, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &2035304162

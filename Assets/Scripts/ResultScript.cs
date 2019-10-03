@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 
-public class ResultButtonScript : MonoBehaviour
+public class ResultScript : MonoBehaviour
 {
-    public void OnClick()
+    public void LoadGameScene()
     {
         SceneManager.LoadScene("GameScene");
     }
