@@ -290,6 +290,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeTextObj: {fileID: 1758359711}
+  buttonTextObj: {fileID: 1852880729}
+  clickButtonObj: {fileID: 806246695}
 --- !u!4 &625690818
 Transform:
   m_ObjectHideFlags: 0
